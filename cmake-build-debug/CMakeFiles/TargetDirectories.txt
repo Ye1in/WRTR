@@ -1,0 +1,6 @@
+/home/yl/CLionProjects/WPTR/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yl/CLionProjects/WPTR/cmake-build-debug/CMakeFiles/main.dir
+/home/yl/CLionProjects/WPTR/cmake-build-debug/CMakeFiles/Ocr.dir
+/home/yl/CLionProjects/WPTR/cmake-build-debug/CMakeFiles/getCh.dir
+/home/yl/CLionProjects/WPTR/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yl/CLionProjects/WPTR/cmake-build-debug/CMakeFiles/getPic.dir

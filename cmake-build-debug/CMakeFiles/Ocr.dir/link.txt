@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/Ocr.dir/src/Ocr.cpp.o  -o Ocr  -L/usr/local/cuda-8.0/lib64  -L/home/yl/CLionProjects/WPTR/lib 
